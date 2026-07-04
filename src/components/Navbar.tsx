@@ -44,12 +44,12 @@ export function Navbar() {
         <div className="flex items-center justify-between h-20 md:h-24">
           <Link to="/" className="flex items-center gap-2 group">
             {/* Logo placeholder - replace with actual dynamic image if needed */}
-            <div className="text-2xl font-serif tracking-widest uppercase flex flex-col items-center leading-tight">
+            <div className="text-xl md:text-2xl font-serif tracking-widest uppercase flex flex-col items-center leading-tight">
               <span className="text-lavender-900 group-hover:text-gold-600 transition-colors">
-                Rhytm
+                The Lavender Planners
               </span>
-              <span className="text-gold-600 text-xs tracking-[0.3em] font-sans">
-                Events
+              <span className="text-gold-600 text-[10px] md:text-xs tracking-[0.2em] md:tracking-[0.3em] font-sans mt-1">
+                Events | Weddings | Trade fairs
               </span>
             </div>
           </Link>

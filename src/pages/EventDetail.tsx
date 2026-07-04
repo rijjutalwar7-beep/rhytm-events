@@ -117,7 +117,7 @@ export function EventDetail() {
               </ul>
 
               <WhatsAppButton
-                message={`Hi Rhytm Events, I want to book or get more details about "${event.title}".`}
+                message={`Hi The Lavender Planners, I want to book or get more details about "${event.title}".`}
                 label="Book Constultation"
                 className="w-full"
               />

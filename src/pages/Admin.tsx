@@ -26,7 +26,7 @@ export function Admin() {
               Admin Portal
             </h2>
             <p className="text-xs text-lavender-600 uppercase tracking-wider">
-              Rhytm Events
+              The Lavender Planners
             </p>
           </div>
 

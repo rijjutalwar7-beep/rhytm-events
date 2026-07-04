@@ -219,7 +219,7 @@ export const TESTIMONIALS: Testimonial[] = [
     name: "Priya & Rahul",
     event: "Wedding Reception",
     content:
-      "Rhytm Events completely transformed our vision into reality. The attention to detail and the sheer luxury of the setup left all our guests speechless. Thank you Rahul!",
+      "The Lavender Planners completely transformed our vision into reality. The attention to detail and the sheer luxury of the setup left all our guests speechless. Thank you Rahul!",
     rating: 5,
   },
   {

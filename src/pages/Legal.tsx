@@ -9,7 +9,7 @@ export function LegalPage({ title }: { title: string }) {
         <h2>1. Introduction</h2>
         <p>
           This is a standard template for {title}. Please replace this content
-          with your actual legal documentation tailored to Rhytm Events.
+          with your actual legal documentation tailored to The Lavender Planners.
         </p>
         <h2>2. Use of Services</h2>
         <p>

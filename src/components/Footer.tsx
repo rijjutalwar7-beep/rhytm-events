@@ -16,10 +16,10 @@ export function Footer() {
       <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 md:gap-12 mb-12 md:mb-16">
           <div className="space-y-6">
-            <div className="text-2xl font-serif tracking-widest uppercase flex flex-col items-start leading-tight">
-              <span className="text-lavender-900">Rhytm</span>
-              <span className="text-gold-600 text-xs tracking-[0.3em] font-sans">
-                Events
+            <div className="text-xl font-serif tracking-widest uppercase flex flex-col items-start leading-tight">
+              <span className="text-lavender-900">The Lavender Planners</span>
+              <span className="text-gold-600 text-[10px] tracking-[0.2em] font-sans mt-1">
+                Events | Weddings | Trade fairs
               </span>
             </div>
             <p className="text-lavender-800 text-sm leading-relaxed max-w-xs">
@@ -134,7 +134,7 @@ export function Footer() {
 
         <div className="border-t border-lavender-300 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-lavender-600 text-sm">
-            &copy; {new Date().getFullYear()} Rhytm Events &ndash; All Rights
+            &copy; {new Date().getFullYear()} The Lavender Planners &ndash; All Rights
             Reserved
           </p>
           <p className="text-lavender-800 text-xs">Designed for Excellence</p>

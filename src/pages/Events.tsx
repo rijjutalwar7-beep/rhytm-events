@@ -77,7 +77,7 @@ export function Events() {
                   View Details
                 </Link>
                 <WhatsAppButton
-                  message={`Hi Rhytm Events, I am interested in knowing more about your "${event.title}" services.`}
+                  message={`Hi The Lavender Planners, I am interested in knowing more about your "${event.title}" services.`}
                   label="Inquire Now"
                   variant="outline"
                   className="w-full text-xs py-2 mt-4"

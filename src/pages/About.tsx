@@ -13,7 +13,7 @@ export function About() {
             <span className="gold-gradient-text-dark italic">Event Management</span>
           </h1>
           <p className="text-lavender-800 font-light text-base md:text-lg leading-relaxed">
-            Founded by Rahul Naruka in Alwar, India, Rhytm Events has built a
+            Founded by Rahul Naruka in Alwar, India, The Lavender Planners has built a
             reputation on impeccable execution, visionary design, and absolute
             dedication to our clients' success. We do not just plan events; we
             architect memories.
@@ -89,12 +89,12 @@ export function About() {
             <div className="space-y-6 text-lavender-800 font-light leading-relaxed">
               <p>
                 With a deep-seated passion for hospitality and structural
-                design, Rahul established Rhytm Events to bridge the gap between
+                design, Rahul established The Lavender Planners to bridge the gap between
                 creative ambition and logistical reality in event management.
               </p>
               <p>
                 Driven by a pursuit of excellence, Rahul's approach centers
-                entirely around client peace of mind. Under his guidance, Rhytm
+                entirely around client peace of mind. Under his guidance, The Lavender Planners
                 Events has expanded its portfolio across high-society weddings,
                 exclusive corporate retreats, and bespoke private gatherings,
                 always remaining rooted in Alwar with an operational footprint

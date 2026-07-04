@@ -24,7 +24,7 @@ export function Home() {
   return (
     <div>
       {/* SECTION 1: HERO */}
-      <section className="relative h-[90vh] md:h-[90vh] flex items-center justify-center overflow-hidden bg-lavender-900">
+      <section className="relative h-[100dvh] md:h-[90vh] flex items-center justify-center overflow-hidden bg-lavender-900">
         <div className="absolute inset-0 z-0">
           <AnimatePresence mode="popLayout">
             <motion.img
@@ -60,7 +60,7 @@ export function Home() {
             transition={{ delay: 0.4, duration: 0.8 }}
             className="text-base sm:text-lg md:text-xl text-lavender-100 max-w-2xl mx-auto mb-8 md:mb-10 font-light"
           >
-            From bespoke weddings to elite corporate celebrations, Rhytm Events
+            From bespoke weddings to elite corporate celebrations, The Lavender Planners
             turns ideas into unforgettable, luxurious experiences.
           </motion.p>
           <motion.div
@@ -97,7 +97,7 @@ export function Home() {
             <div className="aspect-[4/5] object-cover w-full max-w-md mx-auto lg:ml-0 overflow-hidden">
               <img
                 src="https://images.unsplash.com/photo-1519225421980-715cb0215aed?q=80&w=2070&auto=format&fit=crop"
-                alt="Rhytm Events Planning"
+                alt="The Lavender Planners Planning"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -116,14 +116,14 @@ export function Home() {
             transition={{ duration: 0.8 }}
           >
             <h4 className="text-gold-600 text-sm tracking-[0.3em] font-medium uppercase mb-4">
-              About Rhytm Events
+              About The Lavender Planners
             </h4>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif mb-6 md:mb-8 leading-tight">
               Your Trusted Partner in Elegance
             </h2>
             <div className="space-y-6 text-lavender-800 font-light leading-relaxed">
               <p>
-                Based in Alwar, India, Rhytm Events specializes in orchestrating
+                Based in Alwar, India, The Lavender Planners specializes in orchestrating
                 premium physical experiences that captivate and inspire. We
                 believe that every celebration deserves a unique fingerprint.
               </p>
@@ -152,7 +152,7 @@ export function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto mb-10 md:mb-16">
             <h4 className="text-gold-600 text-xs md:text-sm tracking-[0.3em] font-medium uppercase mb-4">
-              The Rhytm Standard
+              The The Lavender Planners Standard
             </h4>
             <h2 className="text-3xl md:text-4xl font-serif">Why Choose Us</h2>
           </div>

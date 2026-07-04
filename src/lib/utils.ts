@@ -11,7 +11,7 @@ export const COMPANY_EMAIL = "Rahulnaruka6890@gmail.com";
 export const COMPANY_LOCATION = "Alwar, India";
 
 export function getWhatsAppLink(
-  message: string = "Hi Rhytm Events, I want details regarding your event services.",
+  message: string = "Hi The Lavender Planners, I want details regarding your event services.",
 ) {
   const encodedText = encodeURIComponent(message);
   return `https://wa.me/${COMPANY_PHONE}?text=${encodedText}`;
