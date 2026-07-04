@@ -1,0 +1,8 @@
+{
+  "name": "Rhytm Events",
+  "description": "Premium event management company website with WhatsApp integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
